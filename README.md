@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lucas Pasche, a brazilian back-end developer.
+I'm Lucas Pasche, a brazilian full-stack developer.
 
 ## 📫 Reach me at
 <a href="https://www.linkedin.com/in/lucas-pasche/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:paschelucas9@gmail.com?subject=Hello%20Lucas,">
