@@ -22,7 +22,7 @@ I'm Gabriel Becker, a brazilian frontend developer.
   
   
 ## 👨‍💻 Currently learning
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="salesforce" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"  height="40"/> </a> </p>
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="salesforce" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"  height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"  height="40"/> </a></p>
 
 ## 📊 GitHub Stats
 <div style={ display: flex }>
