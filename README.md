@@ -22,10 +22,11 @@ I'm Gabriel Becker, a brazilian frontend developer.
   
   
 ## 👨‍💻 Currently learning
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="salesforce" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"  height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"  height="40"/> </a></p>
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="salesforce" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"  height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"  height="40"/> 
+ <a href="[https://dotnet.microsoft.com/en-us/](https://aws.amazon.com/pt/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="40"/> </a></a></p>
 
 ## 📊 GitHub Stats
 <div style={ display: flex }>
-  <img width=400em src="https://github-readme-stats.vercel.app/api?username=GabrielBeckerC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img width=400em src="https://github-readme-stats.vercel.app/api?username=GabrielBeckerC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBeckerC&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/>
 </div>
