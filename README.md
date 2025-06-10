@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gabriel Becker, a brazilian frontend developer.
+I'm Gabriel Becker, a brazilian developer.
 
 ## 📫 Reach me at
 <a href="https://www.linkedin.com/in/gabriel-becker-costa/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabeccosta@gmail.com?subject=Hello%20Gabriel,">
