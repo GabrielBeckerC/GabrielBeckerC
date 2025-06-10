@@ -23,6 +23,9 @@ I'm Gabriel Becker, a brazilian developer.
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="python"  height="40"/> 
   </a> 
+  <a href="https://www.cisco.com/site/br/pt/index.html#tabs-7fc23d6fef-item-6c91c006a9-tab" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21~bgwhite.svg" alt="cisco"  height="40"/> 
+  </a> 
 </p>
 
 ## 📊 GitHub Stats
