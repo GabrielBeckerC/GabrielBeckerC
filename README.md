@@ -30,5 +30,5 @@ I'm Gabriel Becker, a brazilian developer.
 
 ## 📊 GitHub Stats
 <div style={ display: flex }>
-  <img align="center" width=400em src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbeckerc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrielbeckerc" />
+  <img align="center" width=500em src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbeckerc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrielbeckerc" />
 </div>
